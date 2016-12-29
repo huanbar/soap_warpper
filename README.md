@@ -1,0 +1,5 @@
+# soap_warpper
+
+SoapSocket.java 直接使用socket模拟访问webservice接口
+
+SoapURLConnection.java 通过HttpURLConnection模拟访问webservice接口
